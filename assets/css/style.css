@@ -1,0 +1,18 @@
+body {
+    background-image: url(../images/background.jpeg);
+    
+}
+.container {
+     font-family: 'Righteous', cursive;
+}
+
+.jumbotron {
+    /* background-image: url(../images/background1.jpg) */
+    
+}
+
+.table {
+    background-color:white;
+    text-align: center;
+}
+
